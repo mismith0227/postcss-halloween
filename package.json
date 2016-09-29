@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mismith0227/postcss-halloween/issues"
   },
-  "homepage": "https://github.com/mismith0227/postcss-halloween#readme"
+  "homepage": "https://github.com/mismith0227/postcss-halloween#readme",
+  "dependencies": {
+    "postcss": "^5.2.3"
+  }
 }
