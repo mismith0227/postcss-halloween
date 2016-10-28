@@ -1,7 +1,7 @@
 {
   "name": "postcss-halloween",
   "version": "1.0.0",
-  "description": "",
+  "description": "PostCSS plugin for Halloween",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,9 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/mismith0227/postcss-halloween.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["postcss", "css", "postcss-plugin", "wapuu"],
+  "author": "mismith0227",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mismith0227/postcss-halloween/issues"
   },
