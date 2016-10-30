@@ -92,6 +92,42 @@ by [@spicagraph](https://github.com/spicagraph)
 
 by [@spicagraph](https://github.com/spicagraph)
 
+### ドラキュラ / Dracula
+
+```
+.foo {
+  おばけ: ドラキュラ;
+}
+```
+
+![ドラキュラ](https://github.com/mismith0227/postcss-halloween/blob/images/images/dracula.png)
+
+by [@rokuzeudon](https://github.com/rokuzeudon)
+
+### フランケンシュタイン / Frankenstein
+
+```
+.foo {
+  おばけ: フランケンシュタイン;
+}
+```
+
+![フランケンシュタイン](https://github.com/mismith0227/postcss-halloween/blob/images/images/frankenstein.png)
+
+by [@rokuzeudon](https://github.com/rokuzeudon)
+
+### ミイラおとこ / Mummy
+
+```
+.foo {
+  おばけ: ミイラおとこ;
+}
+```
+
+![ミイラおとこ](https://github.com/mismith0227/postcss-halloween/blob/images/images/mummy.png)
+
+by [@rokuzeudon](https://github.com/rokuzeudon)
+
 ## イラスト提供してくれる方へ
 
 このプラグインをMITで公開したいのですが、再配布可能なイラストがなかなかありません。
