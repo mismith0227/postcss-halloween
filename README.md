@@ -101,8 +101,6 @@ by [@spicagraph](https://github.com/spicagraph)
 
 imagesディレクトリにSVG形式の画像を入れてプルリク送っていただければ、こちらでコードに書きかえます！
 
-画像形式はSVGでお願いいたします！
-
 ## Lisense
 
 Code licensed under the MIT.

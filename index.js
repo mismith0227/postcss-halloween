@@ -22,6 +22,12 @@ module.exports = postcss.plugin('postcss-myplugin', function () {
               decl.cloneBefore({ prop: 'background-image', value: 'url('+ ghost.bats +')' });
             } else if (ghostvalue == 'まじょ') {
               decl.cloneBefore({ prop: 'background-image', value: 'url('+ ghost.witch +')' });
+            } else if (ghostvalue == 'ドラキュラ') {
+              decl.cloneBefore({ prop: 'background-image', value: 'url('+ ghost.dracula +')' });
+            } else if (ghostvalue == 'フランケンシュタイン') {
+              decl.cloneBefore({ prop: 'background-image', value: 'url('+ ghost.frankenstein +')' });
+            } else if (ghostvalue == 'ミイラおとこ') {
+              decl.cloneBefore({ prop: 'background-image', value: 'url('+ ghost.mummy +')' });
             }
 
             decl.remove();
